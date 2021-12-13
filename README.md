@@ -6,6 +6,6 @@ To ask about code in detail, please contact Yizhen Jia at yizhenj2@illinois.edu.
 To require information on our model architecture, please contact me at shubos2@illinois.edu.
 Yizhen did not upload code into github because the size is too large (500 MB). <br /> <br />
 
-
+"text captcha_CRNN.pdf" is the progress report of this course. Note that this report is a very brief version and does not contain too much details. To see a detailed description of the network, please go to "Captcha_CRNN.ipynb".
 
 
